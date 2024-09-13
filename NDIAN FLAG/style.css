@@ -1,0 +1,99 @@
+.stick{
+	height: 500px;
+	width: 10px;
+	border: 3px solid black;
+	background-color: brown;
+	display: inline;
+}
+.flag{
+	width: 500px;
+	padding: 0%;
+	display: inline;
+}
+.safron{
+	width: 30%;
+	height: 20svh;
+	background-color: orange;
+	border: 2px solid black;
+}
+.green{
+	width: 30%;
+	height: 20svh;
+	background-color: green;
+	border: 2px solid black;
+}
+.white
+{
+	width: 30%;
+	height: 20svh;
+	border: 2px solid black;
+}
+.circle{
+	
+	border: 5px solid blue;
+	width:80px;
+	height: 80px;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: transparent;
+}
+.ines{
+	border: 2px solid blue;
+	height: 80px;
+	width: 0px;
+	position: absolute;
+	background:transparent;
+}
+
+.a{
+	rotate: 105deg;
+}
+.b{
+	rotate: 120deg;
+}
+.c{
+	rotate: 135deg;
+}
+.d{
+	rotate: 150deg;
+}
+.e{
+	rotate: 165deg;
+}
+.f{
+	rotate: 180deg;
+}
+.g{
+	rotate: 195deg;
+}
+.h{
+	rotate: 210deg;
+}
+.i{
+	rotate: 225deg;
+}
+.j{
+	rotate: 240deg;
+}
+.k{
+	rotate: 255deg;
+}
+.l{
+	rotate: 270deg;
+}
+.m{
+	rotate: 285deg;
+}
+.n{
+	rotate: 300deg;
+}
+.o{
+	rotate: 315deg;
+}
+.p{
+	rotate: 330deg;
+}
+
+
